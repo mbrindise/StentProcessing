@@ -2,7 +2,7 @@
 %                            PURDUE UNIVERSITY
 %                               AETHER LAB
 %                  Code Created By:  Melissa Brindise
-%                  Code Created On:  November 1, 2015
+%                  Code Created On:  November 1, 2014
 %
 %   ------------------------- CODE INFORMATION-----------------------------
 %   TITLE:  findStent.m
